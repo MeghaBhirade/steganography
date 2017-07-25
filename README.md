@@ -1,2 +1,2 @@
-# stegonography
+# steganography
 code
